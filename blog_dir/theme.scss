@@ -1,0 +1,61 @@
+/*-- scss:defaults --*/
+/* Import Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;600;700&display=swap');
+
+/* Brand Colors */
+$purple:    #4B2E83;
+$gold:      #C47843;
+$plum:      #AB8E9E;
+$neutral:   #E5D0C5;
+$slate:     #212121;
+
+/* Apply Typography */
+body {
+  font-family: 'Raleway', sans-serif;
+  color: #333;
+}
+
+/* Navbar */
+.navbar {
+  background-color: $purple !important;
+  a, .navbar-brand, .nav-link {
+    color: white !important;
+    font-weight: 500;
+  }
+  .nav-link:hover {
+    color: $gold !important;
+  }
+}
+
+/* Accent Links */
+a {
+  color: $purple;
+}
+a:hover {
+  color: $gold;
+}
+
+/* Section Headings */
+h1, h2, h3 {
+  font-weight: 600;
+  color: $purple;
+}
+
+/* Callout / Highlight Blocks */
+.callout-note {
+  border-left-color: $gold !important;
+  background: $neutral !important;
+}
+
+.quarto-title-banner, .quarto-title-banner h1 {
+    background-color: $neutral !important;
+    color: #333 !important;
+}
+
+.navbar-brand img {
+  background: #ffffffdd;   /* translucent white backdrop */
+  padding: 4px 8px;
+  border-radius: 3px;
+  width: auto;
+  height: auto;
+}

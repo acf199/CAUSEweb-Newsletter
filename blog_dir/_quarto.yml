@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "CAUSEweb Newsletter"
+  description: "Semester updates from the Consortium for the Advancement of Undergraduate Statistics Education"
+  favicon: assets\favicon.ico
+
+  navbar:
+    logo: assets\cause_logo.png
+    right:
+      - text: Home
+        href: index.qmd
+      - text: Go to CAUSEweb
+        href: https://www.causeweb.org/cause
+
+  page-footer:
+    left: >
+      &copy; 2025 Consortium for the Advancement of Undergraduate Statistics Education
+    right: >
+      <a href="https://www.causeweb.org/cause">Go to CAUSEweb</a> |
+      <a href="https://secure.ddar.psu.edu/s/1218/2014/index.aspx?sid=1218&gid=1&pgid=658&cid=2321&dids=189&bledit=1&appealcode=AE033">Give to CAUSE</a>
+
+format:
+  html:
+    theme:
+      - flatly
+      - theme.scss
+    mainfont: Raleway
+    toc: true
+    toc-depth: 3
+    page-layout: article
+    grid:
+      body-width: 700px   # Narrow, editorial width
+      gutter-width: 1.2rem
+
+
+
+

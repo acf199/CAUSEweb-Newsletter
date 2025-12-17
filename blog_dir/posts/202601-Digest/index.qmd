@@ -1,0 +1,37 @@
+---
+title: "January 2026"
+author: "CAUSEweb"
+date: "2026-01-01"
+---
+
+There's a lot happening for the CAUSE! Below is just a taste of recent happenings and coming attractions. 
+
+
+# eCOTS 2026
+
+![2026 Electronic Conference on Teaching Statistics will be held online from June 15–18, 2026, with the theme "Sparking Joy and Discovery in a World of AI."](eCOTS 2026.png)
+
+The 2026 Electronic Conference on Teaching Statistics will be held online from **June 15–18, 2026**, with the theme "Sparking Joy and Discovery in a World of AI." Proposals for breakout sessions, posters and beyond, workshops, reading groups, and birds-of-a-feather gatherings are being accepted through early January. See the conference website for a preview of the keynote speakers as well as deadlines and submission instructions to get involved. CAUSE also allocates modest funds to support "regional meetings" for an in-person gathering of eCOTS registrants intended to augment the event; so please chat with any colleagues in your local community and submit a proposal! 
+
+Things to remember: 
+- Dates: June 15–18, 2026
+- Call for proposals: <https://www.causeweb.org/cause/ecots/ecots26/proposals>
+- Registration details coming soon! 
+
+
+# Resources & CAUSEweb
+
+[TBD]
+
+# Additional Events & Professional Development
+
+The Undergraduate Statistics Project Competition (USPROC) continues to draw excellent submissions from students around the country, and winners for the Spring 2025 round were announced in September. Keep an eye out for awards for the Fall 2025 round in the next couple months, and Spring 2026 submissions will be due in June. We are also looking forward to the results of the Data Scrollytelling competition, which had a December deadline for submissions. Thank you to all those who submitted and mentored work for these competitions, and to the many judges who have volunteered their time to evaluate the submissions.
+
+In November, eUSR offered an opportunity for students to share their work in a virtual conference, as well as attend information sessions and panels on graduate programs and careers in statistics and data science. This year's keynote was given by Dr. Xiao-Li Meng, who spoke on Learning, Teaching, and Communication in the Age of AI. Professional development is also supported by CAUSE webinars, including the joint webinar series with the Journal of Statistics and Data Science Education. The January CAUSE/JSDSE webinar will be on the use of roleplaying games in the introductory statistics classroom; keep an eye out for further webinars coming up!
+
+
+
+# Research 
+
+[TBD]
+

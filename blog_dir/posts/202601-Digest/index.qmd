@@ -9,13 +9,14 @@ There's a lot happening at CAUSE! I thought it might be nice to share a digest s
 
 # eCOTS 2026
 
-The 2026 Electronic Conference on Teaching Statistics will be held online from **June 15–18, 2026**, with the theme "Sparking Joy and Discovery in a World of AI." Proposals for breakout sessions, posters and beyond, workshops, reading groups, and birds-of-a-feather gatherings are being accepted through early January. See the conference website for a preview of the keynote speakers as well as deadlines and submission instructions to get involved. CAUSE also allocates modest funds to support "regional meetings" for an in-person gathering of eCOTS registrants intended to augment the event; so please chat with any colleagues in your local community and submit a proposal! 
+The 2026 Electronic Conference on Teaching Statistics will be held online from **June 15–18, 2026**, with the theme "Sparking Joy and Discovery in a World of AI." Proposals for breakout sessions, posters and beyond, workshops, reading groups, and birds-of-a-feather gatherings are being accepted now; proposal deadlines vary from January 15 through March 3. We will also honor a member of the Statistics Education community with the George Cobb Lifetime Achievement Award at eCOTS; nominations remain open until March 1, complete details available on the website. See the conference website for a preview of the keynote speakers as well as details about specific deadlines and submission instructions. CAUSE also allocates modest funds to support "regional meetings" for an in-person gathering of eCOTS registrants intended to augment the event; so please chat with any colleagues in your local community and submit a proposal! 
 
 **Key Details:** 
 
 - Dates: June 15–18, 2026
 - [Call for proposals](https://www.causeweb.org/cause/ecots/ecots26/proposals)
 - Registration details coming soon! 
+- [George Cobb Lifetime Achievement Award Nominations Due March 1](https://www.causeweb.org/cause/lifetime/rules)
 - 2026 eCOTS Program Chair: Nick Horton (Amherst College)
 
 
@@ -25,7 +26,7 @@ The 2026 Electronic Conference on Teaching Statistics will be held online from *
 - [New look for CAUSE Resources site](https://www.causeweb.org/cause/resources)
 - Assoc. Director for Resources, Shonda Kuiper (Grinnell College)
 
-# Professional Development
+# Professional Development & Student Engagement
 
 The Undergraduate Statistics Project Competition (USPROC) continues to draw excellent submissions from students around the country, and winners for the Spring 2025 round were announced in September. Keep an eye out for awards for the Fall 2025 round in the next couple months, and Spring 2026 submissions will be due in June. We are also looking forward to the results of the Data Scrollytelling competition, which had a December deadline for submissions. Thank you to all those who submitted and mentored work for these competitions, and to the many judges who have volunteered their time to evaluate the submissions.
 
@@ -33,7 +34,8 @@ In November, eUSR offered an opportunity for students to share their work in a v
 
 **Key Details:** 
 
-- [Scrollytelling Event](https://www.causeweb.org/cause/contests/data-scrollytelling)
+- Spring 2026 USPROC submission deadline 
+- [New Scrollytelling Event](https://www.causeweb.org/cause/contests/data-scrollytelling)
 - [eUSR](https://www.causeweb.org/usproc/eusr/2025)
 - [Webinars](https://www.causeweb.org/cause/webinars)
 - Assoc. Director for Professional Development, Ciaran Evans (Wake Forest University)
@@ -41,13 +43,15 @@ In November, eUSR offered an opportunity for students to share their work in a v
 
 # Research 
 
-CAUSE Research celebrated another successful Research Satellite event at USCOTS 2025 and is gearing up for an exciting 2026! The research pages at CAUSEweb.org will be getting a revamp (coming in 2026!). Additionally, check out the “Getting Started with SDSE Research” webinars we’ve co-organized with Royal Statistical Society - Teaching Statistics Section (RSS-TSS) and Research on Statistics Education (RoSE) Network. Past webinars include Research vs. Scholarship and Qualitative Research, and more are coming in 2026! Please reach out to us with ideas and needs for CAUSE-Research to continue promoting and supporting statistics and data science education research(ers)! 
+CAUSE Research celebrated another successful Research Satellite event at USCOTS 2025 and is gearing up for an exciting 2026! The research pages at CAUSEweb.org will be getting a revamp (coming in 2026!). The CAUSE Research Reading Group will continue to meet (approx) monthly; all are welcome to join the conversation, whether you choose to pop in for a specific paper that catches your eye or choose to become a regular attendee. Additionally, check out the "Getting Started with SDSE Research" webinars we’ve co-organized with Royal Statistical Society - Teaching Statistics Section (RSS-TSS) and Research on Statistics Education (RoSE) Network. Past webinars include Research vs. Scholarship and Qualitative Research, and more are coming in 2026! Please reach out to us with ideas and needs for CAUSE-Research to continue promoting and supporting statistics and data science education research(ers)! 
 
 **Key Details:**
 
+- Watch the CAUSE eNews for announcements about the Reading Group
 - [CAUSE/RoSE/TSS Getting Started with SDSE Research Webinar Series](https://www.causeweb.org/cause/webinars?field_series_tid=450)
 - (co)Assoc. Director for Research, Laura Le (University of Minnesota) 
 - (co)Assoc. Director for Research, Jenny Green (Michigan State University)
+
 
 # Ready to join (the) CAUSE?
 

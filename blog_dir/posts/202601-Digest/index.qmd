@@ -54,6 +54,20 @@ CAUSE Research celebrated another successful Research Satellite event at USCOTS 
 - (co)Assoc. Director for Research, Jenny Green (Michigan State University)
 
 
+# Resources
+
+**TBD Intro line with new link**
+
+**Statistics Education Websites.** This resource includes a Google spreadsheet with brief descriptions and direct links to a wide range of lab activities, interactive applets, blogs, and online textbooks that can be used in statistics classrooms. As you prepare for each semester, we encourage you to browse these sites and explore the many high-quality materials available to support teaching and learning.
+ 
+**Data Sources.** This resource provides an extensive list of websites offering datasets across a broad range of topics, including education, politics, health, sports, and more. These sources are well-suited for students or faculty searching for data for class activities or small research projects.
+ 
+**Clean Datasets.** This repository is designed specifically for educators. Users can select datasets based on variable types, sample size, and relevant instructional topics, making it easy to find clean, well-organized, and pedagogically meaningful data for classroom examples or exams. Many of these datasets have been contributed by the ASA Section on Statistics and Data Science Education (SSDSE).
+ 
+**Legacy Resources.** Everything in our existing library will remain on CAUSEweb; however, some legacy content will no longer be actively maintained. 
+
+As these resources continue to evolve, we welcome your feedback. We encourage you to submit your own datasets, suggest additional resources, share ideas for improvement, or report any broken links.
+
 # Ready to join (the) CAUSE?
 
 Membership in CAUSE is at the level of academic department or other appropriate unit. Any academic department or unit may join by signing a Letter of Agreement that obligates the department or unit to support the goals and projects of CAUSE and to support a departmental representative to CAUSE who agrees to be active in CAUSE through, e.g., serving as a reviewer of materials, serving on advisory boards, and/or helping to organize workshops and seminars.

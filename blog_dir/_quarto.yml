@@ -3,12 +3,11 @@ project:
   output-dir: _site
 
 website:
-  title: "CAUSEweb Newsletter"
+  title: "CAUSE Digest"
   description: "Semester updates from the Consortium for the Advancement of Undergraduate Statistics Education"
   favicon: assets\favicon.ico
 
   navbar:
-    logo: assets\cause_logo.png
     right:
       - text: Home
         href: index.qmd
@@ -16,11 +15,10 @@ website:
         href: https://www.causeweb.org/cause
 
   page-footer:
-    left: >
-      &copy; 2025 Consortium for the Advancement of Undergraduate Statistics Education
-    right: >
-      <a href="https://www.causeweb.org/cause">Go to CAUSEweb</a> |
-      <a href="https://secure.ddar.psu.edu/s/1218/2014/index.aspx?sid=1218&gid=1&pgid=658&cid=2321&dids=189&bledit=1&appealcode=AE033">Give to CAUSE</a>
+    left: |
+      &copy; 2026 CAUSE<br>
+      Consortium for the Advancement of Undergraduate Statistics Education
+    right: <a href="https://www.causeweb.org/cause">Go to CAUSEweb</a>
 
 format:
   html:

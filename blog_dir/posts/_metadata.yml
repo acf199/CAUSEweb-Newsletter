@@ -9,7 +9,4 @@ title-block-banner: true
 
 format:
   html:
-    title-block-banner: true
-    title-block-header: |
-      <img src="../images/cause-logo.png" style="height:50px; display:block; margin-bottom:0.8rem;">
-
+    title-block-banner-color: "#AF9AB2"

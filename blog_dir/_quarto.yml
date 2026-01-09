@@ -18,7 +18,10 @@ website:
     left: |
       &copy; 2026 CAUSE<br>
       Consortium for the Advancement of Undergraduate Statistics Education
-    right: <a href="https://www.causeweb.org/cause">Go to CAUSEweb</a>
+    right: |
+      <a href="mailto:L-STAT-CAUSEweb-subscribe-request@lists.psu.edu?subject=Subscribe%20Request&body=Subscribe%20Request">Join the CAUSE eNews List</a><br>
+      <a href="https://causeweb.org/slack">Join us on Slack</a><br>
+      <a href="https://www.causeweb.org/cause">Go to CAUSEweb</a>
 
 format:
   html:

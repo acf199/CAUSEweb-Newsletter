@@ -5,7 +5,7 @@ date: "2026-01-09"
 image: eCOTS 2026.png
 ---
 
-There's a lot happening at CAUSE! I thought it might be nice to share a digest so people have a taste of recent happenings, coming attractions, and some ongoing efforts. We really want this to be quite concise just to provide a flyover and share a few page links and contacts so people know where to turn when they're interested in more.
+There's a lot happening at CAUSE! We hope you'll find this to be a taste of recent happenings, coming attractions, and some ongoing efforts presented in concise overview along with a few page links and contacts so people know where to turn when they're interested in more.
 
 # eCOTS 2026
 
@@ -20,7 +20,7 @@ The [2026 Electronic Conference on Teaching Statistics](https://www.causeweb.org
 - 2026 eCOTS Program Chair: Nick Horton (Amherst College)
 
 
-# CAUSEweb & Resources
+# CAUSEweb & Resource Updates
 
 We've made a concerted effort over the last year to improve usability of the vast resources available on CAUSEweb. Check out the [new look for our CAUSE Resources site](https://www.causeweb.org/cause/resources)!
 

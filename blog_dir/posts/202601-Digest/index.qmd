@@ -22,8 +22,15 @@ The 2026 Electronic Conference on Teaching Statistics will be held online from *
 
 # CAUSEweb & Resources
 
-- Update from Shonda coming
-- [New look for CAUSE Resources site](https://www.causeweb.org/cause/resources)
+We've made a concerted effort over the last year to improve usability of the vast resources available on CAUSEweb. Check out the [new look for our CAUSE Resources site](https://www.causeweb.org/cause/resources)!
+
+Of course CAUSEweb continues to maintain a large number of **Statistics Education Websites.** Changes include a Google spreadsheet with brief descriptions and direct links to a wide range of lab activities, interactive applets, blogs, and online textbooks that can be used in statistics classrooms. As you prepare for each semester, we encourage you to browse these sites and explore the many high-quality materials available to support teaching and learning. 
+
+CAUSEweb also hosts a number of **Data Sources** and pointers to websites offering datasets across a broad range of topics, including education, politics, health, sports, and more. These sources are well-suited for students or faculty searching for data for class activities or small research projects. We're experimenting with an interface that allows users to explore datasets based on preferences suited to classroom use such as variable types, sample size, and relevant instructional topics, making it easy to find clean, well-organized, and pedagogically meaningful data for classroom examples or exams. Many of these datasets have been contributed by the ASA Section on Statistics and Data Science Education (SSDSE). Although a lot is changing, you can rest assured that our **Legacy Resources** in our existing library will remain on CAUSEweb; however, some legacy content may no longer be actively maintained. 
+
+As these resources continue to evolve, we welcome your feedback. We encourage you to submit your own datasets, suggest additional resources, share ideas for improvement, or report any broken links.
+
+- [CAUSE Resources site](https://www.causeweb.org/cause/resources)
 - Assoc. Director for Resources, Shonda Kuiper (Grinnell College)
 
 # Professional Development & Student Engagement
@@ -54,19 +61,6 @@ CAUSE Research celebrated another successful Research Satellite event at USCOTS 
 - (co)Assoc. Director for Research, Jenny Green (Michigan State University)
 
 
-# Resources
-
-**TBD Intro line with new link**
-
-**Statistics Education Websites.** This resource includes a Google spreadsheet with brief descriptions and direct links to a wide range of lab activities, interactive applets, blogs, and online textbooks that can be used in statistics classrooms. As you prepare for each semester, we encourage you to browse these sites and explore the many high-quality materials available to support teaching and learning.
- 
-**Data Sources.** This resource provides an extensive list of websites offering datasets across a broad range of topics, including education, politics, health, sports, and more. These sources are well-suited for students or faculty searching for data for class activities or small research projects.
- 
-**Clean Datasets.** This repository is designed specifically for educators. Users can select datasets based on variable types, sample size, and relevant instructional topics, making it easy to find clean, well-organized, and pedagogically meaningful data for classroom examples or exams. Many of these datasets have been contributed by the ASA Section on Statistics and Data Science Education (SSDSE).
- 
-**Legacy Resources.** Everything in our existing library will remain on CAUSEweb; however, some legacy content will no longer be actively maintained. 
-
-As these resources continue to evolve, we welcome your feedback. We encourage you to submit your own datasets, suggest additional resources, share ideas for improvement, or report any broken links.
 
 # Ready to join (the) CAUSE?
 
